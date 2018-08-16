@@ -1,0 +1,10 @@
+59f7f86004c33f0ffac453037c8ba9dc *DESCRIPTION
+ecbfe1597b77cd8105459b56965a2fa5 *NAMESPACE
+f959ed1cdb3aaec790ef56bce9138f27 *R/AST.R
+6743d01d5ce313d0c30ae93af6f6bf81 *R/CalcSpaceMat.R
+44ab25b3845a674524e1b14c0d5a47c0 *data/data.adjacent.mat.rda
+c8393866934577606ae4723b25320f26 *data/data.residual.AST.rda
+c8234fbecdabe0a4a439f37b3a789a95 *man/AST.Rd
+1c8ec323541f6f09f0fc61acbcf8c4dd *man/calcSpaceMat.Rd
+52bc2a8b20aef6c57ab43002a4b20c6c *man/data.adjacent.mat.Rd
+7f81445e58228087d3ff2b4e595d2262 *man/data.residual.AST.Rd
